@@ -1,6 +1,6 @@
 # Machine Learning - Py
 
-Alguns códigos de Machine Learning
+Estudos e códigos de Machine Learning
 
 ```python
 plt.scatter(iris.data[previsoes == 0, 0], iris.data[previsoes == 0, 1], 
